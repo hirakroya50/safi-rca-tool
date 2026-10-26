@@ -1,5 +1,5 @@
 # Core dependencies for SAFI RCA
-streamlit>=1.28.0
+streamlit>=1.66.0
 gitpython>=3.1.0
 openai>=1.0.0  # Required for LLM API connectivity
 
